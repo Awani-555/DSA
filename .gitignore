@@ -1,3 +1,14 @@
-*.exe
+# Compiled files
+*.o
 *.obj
+*.exe
 *.out
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
